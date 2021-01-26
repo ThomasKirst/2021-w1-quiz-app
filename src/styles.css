@@ -1,9 +1,8 @@
-body {
-  font-family: sans-serif;
-}
+@import './reset.css';
 
 article {
   border: 2px solid hotpink;
   margin-bottom: 1rem;
   padding: 0.5rem;
+  border-radius: 10px;
 }
