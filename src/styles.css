@@ -1,3 +1,9 @@
 body {
   font-family: sans-serif;
 }
+
+article {
+  border: 2px solid hotpink;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
