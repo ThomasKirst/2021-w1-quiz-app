@@ -1,8 +1,18 @@
 @import './reset.css';
 
+body {
+  width: 30rem;
+  margin: 0 auto;
+}
+
 article {
   border: 2px solid hotpink;
   margin-bottom: 1rem;
   padding: 0.5rem;
   border-radius: 10px;
+}
+
+.hidden {
+  display: none;
+  /* visibility: hidden; */
 }
